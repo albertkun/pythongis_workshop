@@ -2,17 +2,11 @@ name: pythongis
 channels:
     - conda-forge
 dependencies:
-    - fiona
     - folium
     - gdal
-    - geojson
-    - geojsonio
-    - jupyter
     - matplotlib
     - numpy
     - pandas
     - rasterio
     - requests
-    - seaborn
-    - shapely
     - yaml
