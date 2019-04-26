@@ -1,0 +1,26 @@
+name: pythongis
+channels:
+    - conda-forge
+dependencies:
+    - cartopy
+    - descartes
+    - fiona
+    - folium
+    - gdal
+    - geojson
+    - geojsonio
+    - geopandas
+    - jupyter
+    - launcher
+    - matplotlib
+    - numpy
+    - pandas
+    - proj.4
+    - pyproj
+    - rasterio
+    - requests
+    - scikit-learn
+    - scipy
+    - seaborn
+    - shapely
+    - yaml
