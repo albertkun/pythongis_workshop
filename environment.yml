@@ -2,10 +2,12 @@ name: pythongis
 channels:
     - conda-forge
 dependencies:
+    - python=3
     - folium
     - gdal
     - matplotlib
     - numpy
+    - jupyter
     - pandas
     - rasterio
     - requests
