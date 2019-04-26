@@ -8,7 +8,7 @@ There are two options for running this workshop:
 ## A) Run the code on the web
 Click on this link:
 [https://mybinder.org/v2/gh/albertkun/pythongis_workshop/master](https://mybinder.org/v2/gh/albertkun/pythongis_workshop/master)
-### Be aware that running it on the web means nothing will be saved after closing the notebook!
+### Be aware that running it on the web means nothing will be saved after the session!
 
 ## B) Cloning the repo
 ### 1) Make sure Anaconda is installed
