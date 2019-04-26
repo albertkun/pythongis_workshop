@@ -1,7 +1,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albertkun/pythongis_workshop/master)
 # pythongis_workshop
-
+with some adaptation from
+[https://github.com/jonathf/gis-course/blob/master/course.ipynb](https://github.com/jonathf/gis-course/blob/master/course.ipynb)
 ## getting started
 
 There are two options for running this workshop:
