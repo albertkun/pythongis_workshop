@@ -1,0 +1,14 @@
+GDAL
+geopandas
+pandas
+rasterio
+futures
+folium
+requests
+Shapely
+fiona
+six
+matplotlib
+pyproj
+lxml
+descartes
